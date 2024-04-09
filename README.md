@@ -16,12 +16,11 @@ If you are interested in the specifics, feel free to have a read of my publicati
 
 ## Demo
 
-Test the live demo directly in your browser: [Demo](https://prouast.github.io/heartbeat-js/)
+Test the live demo directly in your browser: [Demo](https://heartrate.jaytnw.com)
 
 Currently, tracking is disabled.
 Works best if there is no subject motion.
 
-See also my [C++ implementation](https://github.com/prouast/heartbeat) and [YouTube Demo](https://www.youtube.com/watch?v=D_KYv7pXAvQ&t=1s).
 
 License
 ----

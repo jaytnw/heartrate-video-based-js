@@ -494,3 +494,4 @@ export class Heartbeat {
     this.overlayMask.delete();
   }
 }
+

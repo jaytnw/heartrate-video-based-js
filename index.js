@@ -17,6 +17,7 @@ async function loadOpenCv(uri) {
         resolve();
       }
     };
+    
     tag.onerror = () => {
       throw new URIError("opencv didn't load correctly.");
     };
